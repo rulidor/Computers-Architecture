@@ -1,0 +1,11 @@
+// int digit_cnt(char* input){
+//     int counter = 0;
+//     char c;
+//     int index = 0;
+//     while( (c = *(input+index) ) != '\0'){
+//         if(c>='0' && c<='9')
+//             counter++;
+//         index++;
+//     }
+//     return counter;
+// }
